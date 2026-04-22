@@ -6,3 +6,4 @@ run with cmd with command:
 py py.py
 # How to create apps?
 you can get pyos_studio.py and create programs in this OS!
+and put the file in the pyos_system in desktop folder
